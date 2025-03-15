@@ -54,6 +54,7 @@ class _counterappState extends State<counterapp> {
         Text("Counting = $count",style: TextStyle(
             fontSize: 30,fontWeight: FontWeight.bold,),),
       ],),
+      
     );
   }
 }
